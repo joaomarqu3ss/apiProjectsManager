@@ -18,9 +18,9 @@ O projeto utiliza Java 21, possui tratamento de exceções personalizadas, gera
 ---
 ## 🚀 Tecnologias utilizadas
 
--☕ **Java 21**
--🌱 **Spring Boot (Spring Web, Spring Boot DevTools, Spring Data MongoDB)**
--🗄️ **Banco de dados não relacional (MongoDB)**
--🔑 **JWT para autenticação**
--🧪 **JUnit 5 e Mockito para testes unitários**
--📦 **Maven para gerenciamento de dependências**
+- ☕ **Java 21**
+- 🌱 **Spring Boot (Spring Web, Spring Boot DevTools, Spring Data MongoDB)**
+- 🗄️ **Banco de dados não relacional (MongoDB)**
+- 🔑 **JWT para autenticação**
+- 🧪 **JUnit 5 e Mockito para testes unitários**
+- 📦 **Maven para gerenciamento de dependências**
