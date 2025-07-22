@@ -7,13 +7,13 @@ O projeto utiliza Java 21, possui tratamento de exceções personalizadas, gera
 ---
 
 # ✨ Funcionalidades
--✅ **Autenticação de usuários**
--✅ **Criação, listagem, atualização e exclusão de projetos**
--✅ **Autorização por usuário (cada um gerencia apenas seus projetos)**
--✅ **Filtros personalizados para autenticação**
--✅ **Tratamento de exceções customizado (com mensagens amigáveis no padrão JSON)**
--✅ **Logs estruturados para monitoramento e auditoria**
--✅ **Código pronto para extensões futuras (ex.: auditoria, multi‑tenant, etc.)**
+- ✅ **Autenticação de usuários**
+- ✅ **Criação, listagem, atualização e exclusão de projetos**
+- ✅ **Autorização por usuário (cada um gerencia apenas seus projetos)**
+- ✅ **Filtros personalizados para autenticação**
+- ✅ **Tratamento de exceções customizado (com mensagens amigáveis no padrão JSON)**
+- ✅ **Logs estruturados para monitoramento e auditoria**
+- ✅ **Código pronto para extensões futuras (ex.: auditoria, multi‑tenant, etc.)**
 
 ---
 ## 🚀 Tecnologias utilizadas
